@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 50px;
+}
+
+.background {
+    background: lightgrey;
+    padding: 10px;
+}
+
+.btn-margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
